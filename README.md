@@ -1,11 +1,11 @@
-# Python for Everybody - My Learning Journey
+  # Python for Everybody - My Learning Journey
 
 This repository documents my progress through the "Python for Everybody" course by FreeCodeCamp.  
 The goal is to learn the fundamentals of Python and practice problem-solving.
 
 ## Progress
 - [ ] Git learning
-- [ ] Introduction & Basics (Parts 1-8)
+- [X] Introduction & Basics (Parts 1-8)
 - [ ] Conditional Logic & Loops (Parts 9-15)
 - [ ] Functions & Data Structures (Parts 16-25)
 - [ ] Working with Files & Strings (Parts 26-32)
